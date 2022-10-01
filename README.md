@@ -8,7 +8,9 @@ Here are some ideas to get you started: -->
 
 - 🔭 working on notes for you that will take you next level in development and testing
 - [Follow Me On](https://www.instagram.com/springbootprojects/)  
-- <a href="https://www.instagram.com/springbootprojects/"<img src="https://img.shields.io/badge/-instagram-e34f26?logo=instagram&logoColor=fff" style="height: 100px; width:100px;" /> </>
+- "<img src="https://img.shields.io/badge/-instagram-e34f26?logo=instagram&logoColor=fff" style="height: 100px; width:100px;" />
+
+[![Follow Me](https://img.shields.io/badge/-instagram-e34f26?logo=instagram&logoColor=fff)](https://www.instagram.com/springbootprojects/)
 <!---
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
