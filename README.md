@@ -1,5 +1,5 @@
-# codewithheeren - 20+ Courses, 1 Million Learners 👋
-# Take your first step into Java Development and SDET
+# codewithheeren - 20+ Courses, 10000 Learners 👋
+## Take your first step into Java Development and SDET
 
 <!--
 **codewithheeren/codewithheeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-![github stats](https://github-readme-stats.vercel.app/api?username=codewithheeren&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithheeren&show_icons=true&theme=radical)
+![Follow me]<img src="https://img.shields.io/badge/-instagram-e34f26?logo=instagram&logoColor=fff" />
+![Github stats](https://github-readme-stats.vercel.app/api?username=codewithheeren&count_private=true&show_icons=true&theme=radical)
+
