@@ -17,6 +17,6 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 --->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithheeren&show_icons=true&theme=radical)
-![Follow me]<img src="https://img.shields.io/badge/-instagram-e34f26?logo=instagram&logoColor=fff" />
+<img src="https://img.shields.io/badge/-instagram-e34f26?logo=instagram&logoColor=fff" /><br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=codewithheeren&count_private=true&show_icons=true&theme=radical)
 
