@@ -1,4 +1,4 @@
-# codewithheeren - 20+ Courses, 10000 Learners 👋
+# codewithheeren  👋
 ## Take your first step into Java Development and SDET
 
 - 🔭 working on notes for you that will take you next level in development and testing
